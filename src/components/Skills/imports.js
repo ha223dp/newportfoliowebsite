@@ -29,7 +29,7 @@ import aspnetcore from "../../assets/images/skills/aspnetcore.png";
 import Windowslogo from "../../assets/images/skills/Windowslogo.png";
 import Visualstudio2019 from "../../assets/images/skills/Visualstudio2019.png";
 import Bootstrap from "../../assets/images/skills/Bootstrap.png";
-import Cplus from "../../assets/images/skills/Cplus.png";
+import Cplus from "../../assets/images/skills/cplus.png";
 import Canva from "../../assets/images/skills/canva.png";
 
 
