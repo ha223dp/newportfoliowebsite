@@ -11,7 +11,7 @@ import MovieStar from "../../assets/images/projects/movie-star.png";
 import Realtor from "../../assets/images/projects/realtor.jpg";
 import Royals from "../../assets/images/projects/royals.jpg";
 import Toyota from "../../assets/images/projects/toyota.jpg";
-import perfume from "../../assets/images/projects/perfumeGuru.png";
+import perfume from "../../assets/images/projects/perfumeguru.png";
 import nordicwellness from "../../assets/images/projects/nordicwellness.png";
 import visbyadventure from "../../assets/images/projects/visbyadventurepic.png";
 import matsida from "../../assets/images/projects/matsida.png";
