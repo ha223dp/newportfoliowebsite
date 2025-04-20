@@ -23,7 +23,7 @@ import Docker from "../../assets/images/skills/docker-logo.png";
 import RabbitMq from "../../assets/images/skills/rabbitmq.webp";
 import Jenkins from "../../assets/images/skills/jenkins.png";
 import Figma from "../../assets/images/skills/figma.png";
-import Springboot from "../../assets/images/skills/Springbootlogo.png";
+import Springboot from "../../assets/images/skills/SpringbootLogo.png";
 import CSharp from "../../assets/images/skills/csharplogo.svg";
 import aspnetcore from "../../assets/images/skills/aspnetcore.png";
 import Windowslogo from "../../assets/images/skills/Windowslogo.png";
