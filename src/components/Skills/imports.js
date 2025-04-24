@@ -31,7 +31,10 @@ import Visualstudio2019 from "../../assets/images/skills/Visualstudio2019.png";
 import Bootstrap from "../../assets/images/skills/Bootstrap.png";
 import Cplus from "../../assets/images/skills/cplus.png";
 import Canva from "../../assets/images/skills/canva.png";
-
+import jira from "../../assets/images/skills/jira.png";
+import jupyter from "../../assets/images/skills/jupyter.png";
+import anacondapic from "../../assets/images/skills/anacondapic.png";
+import node from "../../assets/images/skills/node.png";
 
 
 const skills = [
@@ -159,7 +162,26 @@ const skills = [
     image: Canva,
     text: "Canva",
   },
- 
+  {
+    image: jira,
+    text: "Jira",
+  },
+  {
+    image: jupyter,
+    text: "Jupyter",
+  },
+  {
+    image: anacondapic,
+    text: "Anaconda",
+  },
+  {
+    image: Firebase,
+    text: "Firebase",
+  },
+  {
+    image: node,
+    text: "Node Js",
+  },
  
 ];
 
