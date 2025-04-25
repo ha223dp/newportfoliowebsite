@@ -40,10 +40,10 @@ const ProjectsCard = ({ projects }) => {
             disableElevation
             disableRipple
             size="small"
-            color="primary"
+            color={`${projects.site === null ? "warning" : "primary"}`}
           >
-            View Site
-          </Button>
+            {projects.site === null ? "Code is not set up" : "View site"}
+            </Button>
         </a>
         <a href={projects.code} target="blank">
           <Button
