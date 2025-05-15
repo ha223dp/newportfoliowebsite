@@ -82,10 +82,7 @@ const skills = [
     image: Github,
     text: "Github",
   },
-  {
-    image: Gitlab,
-    text: "Gitlab",
-  },
+ 
   {
     image: NPM,
     text: "NPM",
@@ -114,10 +111,7 @@ const skills = [
     image: Vercel,
     text: "Vercel",
   },
-  {
-    image: Netlify,
-    text: "Netlify",
-  },
+ 
   {
     image: Python,
     text: "Python",
@@ -146,10 +140,7 @@ const skills = [
     image: aspnetcore,
     text: "Asp.net Core",
   },
-  {
-    image: Windowslogo,
-    text: "Opera system",
-  },
+
   {
     image: Bootstrap,
     text: "Bootstrap",
@@ -170,14 +161,7 @@ const skills = [
     image: jupyter,
     text: "Jupyter",
   },
-  {
-    image: anacondapic,
-    text: "Anaconda",
-  },
-  {
-    image: Firebase,
-    text: "Firebase",
-  },
+ 
   {
     image: node,
     text: "Node Js",
