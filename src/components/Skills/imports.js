@@ -157,10 +157,7 @@ const skills = [
     image: jira,
     text: "Jira",
   },
-  {
-    image: jupyter,
-    text: "Jupyter",
-  },
+ 
  
   {
     image: node,
