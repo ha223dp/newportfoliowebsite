@@ -1,6 +1,19 @@
 import React from "react";
 
 const experiences = [
+ {
+    icon: "💻", // You can replace these with image imports or URLs
+    title: "Thesis research",
+    location: "Conscia, Stockholm",
+    date: "Mar 2025 – June 2025",
+    details: [
+      "Conducted a case study on personal cybersecurity education.",
+      "Where I analyzed users' behavioral patterns.",
+      "And implemented interviews for data collection and analysis."
+    ]
+  },
+
+
   {
     icon: "💻", // You can replace these with image imports or URLs
     title: "Fullstack Developer",
