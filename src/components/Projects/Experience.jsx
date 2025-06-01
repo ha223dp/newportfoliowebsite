@@ -18,7 +18,7 @@ const experiences = [
     icon: "💻", // You can replace these with image imports or URLs
     title: "Fullstack Developer",
     location: "Freelance, Uppsala",
-    date: "Aug 2024 – April 2025",
+    date: "Aug 2024 – June 2025",
     details: [
       "Built custom, user-centric websites and digital solutions through an iterative, problem-solving approach.",
       "Delivered responsive, scalable, and visually compelling web experiences by combining UI/UX design with full-stack development.",
